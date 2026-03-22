@@ -1,8 +1,8 @@
 # 🔐 Fake Product Detection using Blockchain
 
 ## 👩‍💻 Student Details
-Name: Mahalakshmi  
-Roll No: 323103210256  
+Name: kaveri
+Roll No: 323103210108
 Course: CSE  
 
 ---
@@ -44,4 +44,4 @@ Users can check if a product is genuine or fake.
 ---
 
 ## 👩‍💻 Author
-Mahalakshmi
+kaveri
